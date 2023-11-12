@@ -1,7 +1,5 @@
 /**Matrix multiplication using openMp*/
 
-/**Matrix multiplication sing p threads*/
-
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
